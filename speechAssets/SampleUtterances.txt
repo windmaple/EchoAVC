@@ -1,0 +1,3 @@
+ReadNewBlogIntent read a post
+ReadNewBlogIntent tell me something about startups
+ReadNewBlogIntent help me learn about startups

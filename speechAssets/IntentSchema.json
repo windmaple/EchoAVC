@@ -1,0 +1,31 @@
+{
+
+    "intents": [
+
+      {
+
+        "intent": "ReadNewBlogIntent"
+
+      },
+
+      {
+
+        "intent": "AMAZON.HelpIntent"
+
+      },
+
+      {
+
+        "intent": "AMAZON.StopIntent"
+
+      },
+
+      {
+
+        "intent": "AMAZON.CancelIntent"
+
+      }
+
+    ]
+
+}

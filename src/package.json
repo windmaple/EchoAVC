@@ -1,0 +1,22 @@
+{
+  "name": "echoavc",
+  "version": "1.0.0",
+  "description": "A simple Amazon Alexa skill to read posts from Fred Wilson's blog",
+  "main": "index.js",
+  "dependencies": {
+    "feedparser": "^1.1.4",
+    "html-to-text": "^2.1.0",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alexa",
+    "AVC",
+    "Fred Wilson"
+  ],
+  "author": "windmaple@gmail.com",
+  "license": "MIT"
+}
